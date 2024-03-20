@@ -1,0 +1,27 @@
+{
+  "name": "degen-auth-service",
+  "version": "1.0.0",
+  "description": "Enhance your application security with a decentralized authentication service, ensuring user trust and safety.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luminouslovely/degen-auth-service"
+  },
+  "author": "luminouslovely",
+  "license": "MIT",
+  "dependencies": {
+    "degen-auth-service": "1.0.0",
+    "degen-auth-service-use": "1.0.0",
+    "firebase": "1.0.0",
+    "react-dom": "1.0.0",
+    "react": "1.0.0",
+    "babel-core": "1.0.0",
+    "react-redux": "1.0.0",
+    "sinon": "1.0.0",
+    "chalk": "1.0.0",
+    "supertest": "1.0.0"
+  }
+}
